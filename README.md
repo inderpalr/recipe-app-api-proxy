@@ -1,8 +1,8 @@
-# recipe-app-api-proxy
+# Recipe-app-api-proxy
 
 NGINX Proxy app for recipe api. 
 
-# usage
+# Usage
 
 # Environment Variables
 * `LISTEN_PORT` - Port to listen on (default: `8000`)
